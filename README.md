@@ -32,5 +32,5 @@ Project consist in creating a simple calendar daily planner application that all
 * Github profile: https://github.com/IonGavrilita
 
 ### Directory:
-* Website:
-* Source:
+* Website: https://iongavrilita.github.io/h5_Day_Planner/.
+* Source: https://github.com/IonGavrilita/h5_Day_Planner
